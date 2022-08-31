@@ -1,0 +1,43 @@
+/* .full{
+    padding: 10px;
+    background-color: gainsboro;
+} */
+.left{
+    background-color: rgb(104, 168, 147);
+    padding-left: 100px;
+    width: 300px;
+    height: 1000px;
+    float: left;
+    margin-left: 15%;
+}
+.right{
+    background-color: cornflowerblue;
+    padding-top: 30px;
+    padding-left: 50px;
+    width: 600px;
+    height: 970px;
+    float: right;
+    margin-left: 0%;
+    margin-right: 15.8%;
+}
+.contact{
+    padding-top: 150px;
+}
+.image{
+    width: 100px;
+    height: 100px;
+}
+#img{
+    padding-top: 50px;
+    width: 200px;
+    height: 200px;
+}
+.education
+{
+    padding-top: 20px;
+}
+table,th,td{
+    border-collapse:separate;
+    box-sizing: border-box;
+    border: 1px solid black;
+}
